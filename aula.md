@@ -75,6 +75,13 @@ Apresentar os dados
 - [x] Importação de módulos (require, CommonJS)
 - [x] Biblioteca 'inquirer' para criar prompts interativos 
         - foi usado o comando (npm install inquirer) para instalar a biblioteca
+- [x] FS (file system)
+
+## JSON
+
+- [x] Javascript Object Notation (.json)
+- [x] JSON.parse(): tranforma de JSON para JS
+- [x] JSON.stringify(): transoforma de JS para JSON
 
 ## Programação assíncrona e Promises:
 
